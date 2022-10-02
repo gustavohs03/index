@@ -1,0 +1,84 @@
+.root{
+    --primary-color:#FFFFFF;
+}
+
+body{
+    background-color: aliceblue;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.6rem;
+    
+
+}
+
+html {
+    font-size:66.2% ;
+}
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 6rem;
+    text-transform: uppercase;
+    color: #FFFFFF;
+   
+
+
+}
+
+    h2 {font-family: 'Montserrat', sans-serif;
+        font-size: 3rem;
+        text-transform: uppercase;
+        color: #FFFFFF;
+
+    }
+h3 {
+    font-family: 'Montserrat', sans-serif;
+        font-size: 2rem;
+        text-transform: uppercase;
+}
+
+.p1{
+    margin: 5px 0px 10px;
+    color: #FFFFFF;
+}
+
+img{
+    margin: 20px;
+    padding-top: 10px;
+    height: 200px;
+    
+    border-radius: 50px;
+    
+}
+
+.gol {background: rgb(2, 2, 46);
+    background-position: center center;
+    color: var(--primary-color);
+
+
+}
+ .p {background:red;
+    background-position: center center;
+    color:white;}
+
+
+   .content{
+        max-width: 1200px;
+        margin: 0 auto;
+        color: var(--primary-color);
+
+    }
+    .cor {
+        color: #FFFFFF;
+    }
+    .black {
+        color: rgb(6, 6, 6)
+    }
+
+    .var {
+        background-position: center center;
+        background: rgb(112, 146, 183)
+    }
+
+    .p2{
+        margin: 5px 0px 10px;
+    color: black;
+    }
